@@ -1,6 +1,6 @@
 # VipulType Pro 🚀
 
-Live Demo - https://typingtestvip.netlify.app
+Live Demo - https://typingspeedtestvip.netlify.app
 
 **A modern, interactive typing speed test application with glassmorphism design**
 
